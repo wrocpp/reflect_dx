@@ -1,2 +1,7 @@
 # reflect_dx
-Reflection-driven developer-experience tooling for C++26 (debugger and pretty-printer snippet generation). Companion repo for the wro.cpp C++26 reflection series; runnable examples in wrocpp/cpp26-reflection-examples.
+
+This repository is a placeholder. It contains no code, no release and no licence.
+
+The wro.cpp post [reflect_dx: auto-generated debugger pretty-printers and docs](https://wrocpp.github.io/posts/reflect-dx/) shows a design sketch of a library by this name. The sketch is not implemented here.
+
+Runnable single-file examples are in [wrocpp/cpp26-reflection-examples](https://github.com/wrocpp/cpp26-reflection-examples) (`posts/22-reflect-dx/examples`).
